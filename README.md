@@ -1,4 +1,3 @@
-```markdown
 # 🍿 CineSpot - React Movie Search App
 
 CineSpot is a simple React application that allows users to search for movies using the OMDB API and view basic details about each movie.
